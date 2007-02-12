@@ -1,5 +1,5 @@
 Summary:	KVisualBoyAdvance - simple graphical frontend to the VisualBoyAdvance emulator
-Summary(pl):	KVisualBoyAdvance - nak³adka graficzna na emulator VisualBoyAdvance
+Summary(pl.UTF-8):   KVisualBoyAdvance - nakÅ‚adka graficzna na emulator VisualBoyAdvance
 Name:		KVisualBoyAdvance
 Version:	0.3.1
 Release:	1
@@ -21,9 +21,9 @@ KVisualBoyAdvance ("KVBA") is a simple graphical frontend to the
 VisualBoyAdvance emulator, which lets you play Game Boy Advance(TM)
 games under Linux.
 
-%description -l pl
-KVisualBoyAdvance ("KVBA") jest nak³adk± graficzn± na emulator
-VisualBoyAdvance, który pozwala graæ w gry przeznaczone dla Game Boy
+%description -l pl.UTF-8
+KVisualBoyAdvance ("KVBA") jest nakÅ‚adkÄ… graficznÄ… na emulator
+VisualBoyAdvance, ktÃ³ry pozwala graÄ‡ w gry przeznaczone dla Game Boy
 Advance(TM) pod Linuksem.
 
 %prep
