@@ -1,5 +1,5 @@
 Summary:	KVisualBoyAdvance - simple graphical frontend to the VisualBoyAdvance emulator
-Summary(pl.UTF-8):   KVisualBoyAdvance - nakładka graficzna na emulator VisualBoyAdvance
+Summary(pl.UTF-8):	KVisualBoyAdvance - nakładka graficzna na emulator VisualBoyAdvance
 Name:		KVisualBoyAdvance
 Version:	0.3.1
 Release:	1
